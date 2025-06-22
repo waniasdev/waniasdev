@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Wania!
 
-<!--
-**waniasdev/waniasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student** passionate about learning, building, and sharing cool tech ideas. I love exploring both the logic behind code and the creativity in design.
 
-Here are some ideas to get you started:
+### 👩‍💻 What I’m working on:
+- Improving my C++ and Python skills
+- Building projects with HTML, CSS, and JavaScript
+- Exploring GitHub & VS Code for creativity and coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 What I’m learning:
+- Object Oriented Programming
+
+### ✨ Fun facts:
+- I enjoy making clean, simple presentations
+- Always curious, always growing 🌱
+
+### 📫 Let’s connect!
+- ✉️ Email: waniasdev@gmail.com
+
+> _"One day or DAY ONE."_ 💫
